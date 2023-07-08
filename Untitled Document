@@ -68,3 +68,14 @@ git pull origin master
 ------------------------------------
 
 git branch -d feature-morteza
+
+------------------------------------
+
+git diff --> multiple commits
+changes since last commit
+
+-------------------------------------
+
+# not for new files
+
+git commit -am "newly add"
