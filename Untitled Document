@@ -27,3 +27,12 @@ git push -u origin master
 git status
 git add .
 git add ttt
+
+--------------------------------
+
+In most cases, it's recommended to use git push -u origin master for the initial push
+to set up the tracking relationship. Afterward, you can simply use git push for subsequent
+pushes as Git will remember the tracking information.
+
+--------------------------------
+
