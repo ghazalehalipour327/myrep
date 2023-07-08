@@ -2,7 +2,7 @@
 
 git clone link
 
---------------
+
 
 git config --list
 git config --global user.name ghazalehalipour327
@@ -45,3 +45,6 @@ git checkout -b feature-morteza
 git checkout master
 
 ---------------------------------
+
+git diff feature-morteza
+git diff master
