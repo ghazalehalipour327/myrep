@@ -4,6 +4,8 @@ git clone link
 
 something in feature morteza
 
+something else
+
 git config --list
 git config --global user.name ghazalehalipour327
 git config --global user.email ghazalehalipour327@gmail.com
@@ -79,3 +81,7 @@ changes since last commit
 # not for new files
 
 git commit -am "newly add"
+
+______________________________________
+
+git reset HEAD~1
