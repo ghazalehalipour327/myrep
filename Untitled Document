@@ -36,3 +36,12 @@ pushes as Git will remember the tracking information.
 
 --------------------------------
 
+git remote -v
+
+---------------------------------
+
+git branch
+git checkout -b feature-morteza
+git checkout master
+
+---------------------------------
