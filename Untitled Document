@@ -48,3 +48,23 @@ git checkout master
 
 git diff feature-morteza
 git diff master
+
+---------------------------------
+
+git push -u origin feature-morteza
+
+---------------------------------
+
+git merge --> on github --> pull request
+
+----------------------------------
+
+don't forget:
+
+git pull
+or
+git pull origin master
+
+------------------------------------
+
+git branch -d feature-morteza
