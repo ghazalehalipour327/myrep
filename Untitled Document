@@ -81,3 +81,17 @@ changes since last commit
 # not for new files
 
 git commit -am "newly add"
+
+______________________________________
+
+git reset HEAD~1
+
+--------------------------------------
+
+git log
+git reset e27f63803ad4e2054bf3405ed6507feeec5b7982
+# just shows and doesn't change.
+
+git reset --hard e27f63803ad4e2054bf3405ed6507feeec5b7982
+
+--------------------------------------
